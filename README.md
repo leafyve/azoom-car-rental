@@ -44,7 +44,7 @@ Open `index.html` in Chrome, Edge or Firefox. Alternatively run `python -m http.
 
 - Share the website URL and your Google Drive source-code folder URL.
 - Submit the PDF design review (maximum 5 pages) with screenshots and shared Google Drive screen-recording URL.
-- Record a narrated demonstration; the parent package contains an earlier narrated draft video, which does not show the refreshed photographs. The deployment target is https://leafyve.github.io/azoom-car-rental/; see DEPLOYMENT.md for current verification status.
+- Record a narrated demonstration; the parent package contains an earlier narrated draft video, which does not show the refreshed photographs. The website is live at https://leafyve.github.io/azoom-car-rental/ and was verified on 29 October 2026; see LIVE_VERIFICATION.md.
 - Review UOW's guidance on acknowledging any AI-assisted content and adapt the work to reflect your own understanding.
 
 ## October 2026 visual refresh
@@ -65,6 +65,6 @@ See `TEST_RESULTS.md` for observed browser checks and `DEPLOYMENT.md` for exact 
 
 Repository: https://github.com/Leafyve/azoom-car-rental
 
-GitHub Pages target: https://leafyve.github.io/azoom-car-rental/
+Live GitHub Pages website: https://leafyve.github.io/azoom-car-rental/
 
 Publishing uses the `main` branch and repository root. See `DEPLOYMENT.md` for deployment status and future update commands. Private assignment reports, screenshots, temporary files and legacy SVG illustrations are excluded from Git.

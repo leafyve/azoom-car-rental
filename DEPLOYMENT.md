@@ -5,7 +5,7 @@ Pages target: https://leafyve.github.io/azoom-car-rental/
 
 Configuration: deploy from `main`, root directory `/`, with `.nojekyll` to serve the existing static HTML/CSS/JavaScript. All runtime images and fonts are local and use relative URLs. No custom build workflow is needed.
 
-Status: initial deployment is being prepared. Success must be confirmed by testing the public URL and checking the Pages build. This file will be updated after live verification.
+Status: **Successfully deployed and verified on 29 October 2026.** The GitHub Pages build completed successfully for `90dfcd37d999f7f5c22e8afc473ce0d0e0739f20`. The actual public URL returned HTTP 200 and passed 22 browser checks. See `LIVE_VERIFICATION.md` for evidence and limits.
 
 ## Push future updates
 

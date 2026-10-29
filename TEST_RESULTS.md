@@ -32,7 +32,7 @@ Result: **23 checks passed**, zero browser JavaScript errors, zero failed HTTP r
 Fresh PNG captures in `screenshots/` cover homepage, all six fleet cards, reservation form, demo card selection, confirmation, inspection, final bill, locations, mobile booking and tablet. Screenshots use synthetic customer details.
 
 ## Limits
-No public deployment exists to test. Real mobile hardware, Firefox, Safari, real inventory, real payments, staff authentication and server persistence were not tested or claimed. CSS viewport emulation covered widths 320, 390, 768, 820, 1024 and 1440 pixels. Test reservations were confined to an isolated browser context and did not change the user’s browser bookings.
+The public GitHub Pages deployment was subsequently tested on 29 October 2026; see LIVE_VERIFICATION.md for the separate live results. Real mobile hardware, Firefox, Safari, real inventory, real payments, staff authentication and server persistence were not tested or claimed. CSS viewport emulation covered widths 320, 390, 768, 820, 1024 and 1440 pixels. Test reservations were confined to an isolated browser context and did not change the user’s browser bookings.
 
 ## Change preservation
 The original six car rates, category values, weekly/monthly discounts, tax calculation, storage key and business-state transitions remain unchanged. JavaScript edits replace asset references, improve image metadata and add access to the existing booking manager from the mobile menu. The original invalid phone-field regular expression was corrected in HTML.
