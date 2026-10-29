@@ -1,0 +1,46 @@
+# Private assignment documents and submission packages
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.zip
+*.7z
+*.mp4
+*.mov
+*.avi
+
+# Local screenshots, browser profiles, test output and scratch files
+/screenshots/
+/work/
+/outputs/
+/tmp/
+/temp/
+/test-results/
+/playwright-report/
+/playwright/.auth/
+/browser-profile/
+/user-data-dir/
+*.log
+*.tmp
+*.bak
+__pycache__/
+node_modules/
+.venv/
+.DS_Store
+Thumbs.db
+
+# Credentials and local environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*token*.json
+*storage-state*.json
+
+# Legacy illustrations are retained locally; publish photographic assets only
+/assets/*.svg
